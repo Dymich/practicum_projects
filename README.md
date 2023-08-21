@@ -1,1 +1,1 @@
-# practicum_projects
+# practicum projects
